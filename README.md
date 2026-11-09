@@ -2,7 +2,7 @@
 
 A healthcare analytics project built in Microsoft Excel to explore hospital operations, patient visits, financial performance, and patient outcomes. The project uses data cleaning, Power Query, the Excel Data Model, DAX measures, PivotTables, PivotCharts, and interactive slicers to transform raw hospital data into meaningful insights.
 
-![Healthcare Dashboard Preview](Healthcare%interactive%dashboard.png)
+![Healthcare Dashboard Preview](Healthcare%20interactive%20dashboard.png)
 
 ## 1. Project Overview
 
