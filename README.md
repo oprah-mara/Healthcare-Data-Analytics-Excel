@@ -153,10 +153,4 @@ This project demonstrates how healthcare data can be used to:
 ## 11. Limitations
 
 - The dataset is synthetic and does not represent actual hospital operations.
-- The analysis is descriptive and does not establish causal relationships.
-- Patient satisfaction results are based only on available survey responses.
-- The dataset covers a two-year period and may not represent longer-term operational patterns.
 
-## 12. Project Files
-
-- `Healthcare_Excel_Project.xlsx` – Completed Excel workbook containing the cleaned datasets, analysis, Data Model, and interactive dashboard.
