@@ -63,18 +63,6 @@ Added columns: `Outstanding` (TreatmentCost − AmountPaid), `LOS Band`, `Age Gr
 - Self-Pay carries the largest outstanding balance (₦32.7M of ₦94.5M).
 - Orthopaedics has the highest satisfaction (3.57); Emergency the lowest (3.23).
 
-## Repository structure
-```
-├── workbook/
-│   └── Healthcare_Excel_Project.xlsx   # data model, DAX, pivots, dashboard
-├── data/
-│   ├── raw/                            # source tables as provided (deliberate issues)
-│   └── cleaned/                        # tables after cleaning
-├── docs/images/                        # dashboard screenshots
-├── LICENSE
-└── README.md
-```
-
 ## Dashboard
 ![Dashboard](docs/images/dashboard.png)
 
